@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Разведочный анализ данных: состояние кожи лица до и после применения крема</title>
 <style>
 :root{
